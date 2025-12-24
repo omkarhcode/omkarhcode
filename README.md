@@ -23,5 +23,5 @@ I am a seasoned developer with over **20+ years of experience** in building and 
 ### 📫 Get in Touch
 * **Portfolio:** [www.omkarh.in](https://www.omkarh.in/)
 * **LinkedIn:** [linkedin.com/in/omkarh](https://www.linkedin.com/in/omkarh)
-* [cite_start]**GitHub:** [github.com/omkarhcode](https://github.com/omkarhcode) [cite: 69, 85]
-* [cite_start]**Email:** [omkarh@gmail.com](mailto:omkarh@gmail.com) [cite: 4, 82]
+* **GitHub:** [github.com/omkarhcode](https://github.com/omkarhcode)
+* **Email:** [omkarh@gmail.com](mailto:omkarh@gmail.com)
